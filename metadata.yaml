@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1452
     wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38575#Strange-Stories
 gutenberg_issued: '2012-01-15'
 gutenberg_type: Text
 identifiers:
