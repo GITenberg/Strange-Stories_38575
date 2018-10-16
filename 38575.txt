@@ -1156,7 +1156,7 @@ called him "Master."
 
 He watched the lifeless face for an hour or two. There was no change in
 it till about four o'clock; then Ethel's eyes began to alter their
-expression. He saw the dilated pupils contract a little, and know that
+expression. He saw the dilated pupils contract a little, and knew that
 consciousness was gradually returning.
 
 In a moment more she looked round at him and gave a little cry. "John,"
@@ -3387,7 +3387,7 @@ the thing came to be discovered! What an inappropriate classification!
 
 He threw aside the surplice, and rushed up hurriedly to the vicarage.
 Already the servants had brought in the body, and laid it out in the
-clothes it wore, on the vicar's own bed. Waltor Dene went in,
+clothes it wore, on the vicar's own bed. Walter Dene went in,
 shuddering, to look at it. To his utter amazement, the face was battered
 in horribly and almost unrecognizably by a blow or kick! What could that
 hideous mutilation mean? He could not imagine. It was an awful mystery.
@@ -4666,7 +4666,7 @@ humiliation.
 
 I went to bed that night, in my hammock on deck, with feelings far from
 satisfactory. We were moored against the bank at Abu Yilla, the most
-pestiferous hole between thee cataracts and the Delta. The mosquitoes
+pestiferous hole between the cataracts and the Delta. The mosquitoes
 were worse than the ordinary mosquitoes of Egypt, and that is saying a
 great deal. The heat was oppressive even at night, and the malaria from
 the lotus beds rose like a palpable mist before my eyes. Above all, I
@@ -4853,7 +4853,7 @@ betrays an Arctic habitat."
 
 I had instinctively taken off my round felt hat in the first moment of
 surprise, when I found myself in the midst of this strange throng, and I
-standing now in a somewhat embarrassed posture, holding it awkwardly
+was standing now in a somewhat embarrassed posture, holding it awkwardly
 before me like a shield to protect my chest.
 
 "Let the stranger cover himself," said the king.
@@ -7745,7 +7745,7 @@ at all, concealing the profound intellectual strength that lay latent in
 her calm grey eyes. There were artistic artists and rugged artists;
 satirical novelists and gay novelists; heavy professors and deep
 professors--every possible representative of "literature, science, and
-art." At first, I was put off with introductions to young poe tasters,
+art." At first, I was put off with introductions to young poetasters,
 and gentlemen with an interest in cuneiform inscriptions; but I had
 quite made up my mind to get a talk with Mr. Gerard Llewellyn; and to
 Mr. Gerard Llewellyn our hostess at last promised to introduce me. She
@@ -10848,7 +10848,7 @@ about the object was this, that it evidently did not consist of any
 ordinary material substance, as its outline seemed vague and wavy, like
 that of a photograph where the sitter has moved; while all the objects
 behind it, such as the back of the chair and the clock in the corner,
-showed through the filmly head and body, in the very manner which
+showed through the filmy head and body, in the very manner which
 painters have always adopted in representing a ghost. I saw at once that
 whatever else the object before might be, it certainly formed a fine
 specimen of the orthodox and old-fashioned apparition. In dress,
@@ -11140,7 +11140,7 @@ interesting, deserves a place in this memoir. It ran as follows:--
 _Chemical Analysis of an Apparition._
 
   Atmospheric air       96.45 per cent.
-  Aqueous vapour        23.1    "
+  Aqueous vapour         2.31   "
   Carbonic acid          1.08   "
   Tobacco smoke          0.16   "
   Volatile alcohol       A trace
@@ -11355,7 +11355,7 @@ character for implicit truthfulness. Or again, you may be a mere
 hallucination of my fancy: I may be suddenly gone mad, or I may be
 totally drunk,--and now that I look at the bottle, Jim, we must
 certainly allow that we have fully appreciated the excellent qualities
-of your capital Glenlivat. In short, a number of alternatives exist, any
+of your capital Glenlivet. In short, a number of alternatives exist, any
 one of which is quite as probable as the supposition of your being a
 genuine ghost; which supposition I must therefore lay aside as a mere
 matter for the exercise of a suspended judgment."
